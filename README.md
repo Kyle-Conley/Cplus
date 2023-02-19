@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# C++
 
 Summarize the project and what problem it was solving.
 
